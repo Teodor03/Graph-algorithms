@@ -12,4 +12,4 @@ The implementations are organized in the following groups:
 6.Lowest common ancestor (LCA) - The most commonly used implementation (and extremely fast) with Euler path and sparse table.
 7.Queries on a tree - Implementations of heavy-light decomposition and centroid decomposition.
 # Maximum flow
-8 Max Flow - Implementations of the Edmand-Karp and Dinic algorithms for maximum flow + implementation of the algorithm for solving Min-cost flow using SPFA.
+8.Max Flow - Implementations of the Edmand-Karp and Dinic algorithms for maximum flow + implementation of the algorithm for solving Min-cost flow using SPFA.
