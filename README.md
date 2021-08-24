@@ -6,7 +6,6 @@ The implementations are organized in the following groups:
 2.Topological sort
 # Shortest-path related problems
 3.Single source shortest path - Dijkstra, Bellman-Ford, Zero-one BFS
-
 4.All pairs shortest path - Floyd-Warshall
 # Tree related problems
 5.Spanning trees - Kruskal and Prim algorithms for minimum spanning tree.
